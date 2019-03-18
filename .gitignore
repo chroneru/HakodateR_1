@@ -1,0 +1,14 @@
+
+src_py/*
+src_R/init_token.R
+
+src_Rmd/*
+
+source/HakodateR_1/image_path.txt
+Image/*
+Css/*
+
+HakodateR_1.Rproj
+.Rproj.user
+
+build/html/_images/*
